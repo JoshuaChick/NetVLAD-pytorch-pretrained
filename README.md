@@ -3,7 +3,7 @@
 git clone https://github.com/JoshuaChick/NetVLAD-pytorch-pretrained
 ```
 ```
-cd NetVLAD-pytroch-pretrained
+cd NetVLAD-pytorch-pretrained
 ```
 ```
 pip3 install -r requirements.txt
