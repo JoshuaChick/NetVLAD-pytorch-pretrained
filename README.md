@@ -1,6 +1,6 @@
 # Run
 ```
-git clone https://github.com/JoshuaChick/NetVLAD-pytroch-pretrained
+git clone https://github.com/JoshuaChick/NetVLAD-pytorch-pretrained
 ```
 ```
 cd NetVLAD-pytroch-pretrained
